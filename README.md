@@ -1,7 +1,8 @@
 # Jensen_partners_project
 Project/Trading Strategies at Jensen Partners
 
-ML Project:Twitter-moods-as-stock-price-predictors-on-Nasdaq
+
+# ML Project:Twitter-moods-as-stock-price-predictors-on-Nasdaq
 
 Although news most certainly influence stock market prices, public mood states or sentiment may play an equally important role. We know from psychological research that emotions, in addition to information, play a significant role in human decision-making. Behavioral finance has provided further proof that financial decisions are significantly driven by emotion and mood. It is therefore reasonable to assume that the public mood and sentiment can drive stock market values as much as news. As far as tweets go, some interesting discoveries have already been made. I also wanted to investigate this, and made some interesting discoveries!
 
